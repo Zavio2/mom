@@ -238,6 +238,14 @@ h2 {
   text-align: center;
 }
 
+.div-img{
+  padding: ;
+}
+
+img{
+  width: 70%;
+}
+
 @media (width >= 700px) {
   .start {
     background-image: url(../img/playa.jpg);
