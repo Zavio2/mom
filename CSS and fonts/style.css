@@ -171,6 +171,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  align-items: center;
 }
 
 .div-text {
@@ -198,6 +199,8 @@ a {
 
 .mobile-btm-nav {
   animation: float 2s infinite;
+  display: flex;
+  justify-content: center;
 }
 
 /*
